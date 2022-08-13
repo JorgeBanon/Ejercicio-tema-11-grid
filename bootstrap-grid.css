@@ -1,0 +1,22 @@
+.row {
+    gap: 10px;
+}
+.col-xs {
+    background-color: aqua;
+}
+
+.col-sm {
+    background-color: blue;
+}
+
+.col-md {
+    background-color: red;
+}
+
+.col-lg {
+    background-color: brown;
+}
+
+.col-xl {
+    background-color: green;
+}
